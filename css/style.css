@@ -412,7 +412,10 @@ a.navbar-brand span {
 
 .flipLightBox img {
 	margin-top:20px;
-
+}
+.portfolio .row img {
+    width: 530px;
+    float: left;
 }
 
 /* --- Map --- */
