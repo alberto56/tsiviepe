@@ -414,8 +414,8 @@ a.navbar-brand span {
 	margin-top:20px;
 }
 .portfolio .row img {
-    width: 530px;
-    float: left;
+    width: 470px;
+    display: inline-block;
 }
 
 /* --- Map --- */
