@@ -37,6 +37,9 @@ a {
     outline: none;
 	color:#333;
 }
+p a {
+  text-decoration: underline;
+}
 a:hover {
   text-decoration: none;
   color:#41691c;
