@@ -37,7 +37,7 @@ a {
     outline: none;
 	color:#333;
 }
-p a {
+.container p a {
   text-decoration: underline;
 }
 a:hover {
