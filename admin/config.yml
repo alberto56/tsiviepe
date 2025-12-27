@@ -3,7 +3,7 @@ backend:
   repo: alberto56/tsiviepe
   branch: gh-pages
   base_url: https://suresh-issue-82.dcycleproject.org
-  auth_endpoint: /auth/github/repo/6946e3ea7c6e2b059bec669d
+  auth_endpoint: /auth/github/repo/694f514e18f56cc35826651b
 media_folder: static/uploads
 public_folder: /uploads
 collections:
