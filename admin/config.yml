@@ -2,8 +2,8 @@ backend:
   name: github
   repo: alberto56/tsiviepe
   branch: gh-pages
-  base_url: https://suresh-issue-82.dcycleproject.org
-  auth_endpoint: /auth/github/repo/694f514e18f56cc35826651b
+  base_url: https://app.staticauth.com
+  auth_endpoint: /auth/github/repo/696663d58a3239f20471761a
 media_folder: static/uploads
 public_folder: /uploads
 collections:
